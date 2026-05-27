@@ -1,1 +1,12 @@
-
+payload:
+  - 'www.binance.com'
+  - 'accounts.binance.com'
+  - 'www.gate.com'
+  - 'www.okx.com'
+  - 'fapi.asterdex.com'
+  - 'fapi.binance.com'
+  - 'papi.binance.com'
+  - 'api.binance.com'
+  - 'sstream.asterdex.com'
+  - 'sapi.asterdex.com'
+  - 'api.bybit.com'
