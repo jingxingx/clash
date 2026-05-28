@@ -10,3 +10,4 @@ payload:
   - 'sstream.asterdex.com'
   - 'sapi.asterdex.com'
   - 'api.bybit.com'
+  - 'www.htx.com'
